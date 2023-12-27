@@ -2,7 +2,7 @@ Nome do Projeto: LOGMOBO
 
 Descrição: Sistema para alertas via e-mail de aparelhos inativos contidos na plataforma Urmobo.
 
-Instruções de Instalação: Necessário realizar a instalação das bibliotecas contidas no arquivo "requirements.txt"
+Instruções de Instalação: Necessário realizar a instalação das bibliotecas contidas no arquivo "requirements.txt" ou se preferir utilizar o ambiente virtual através do Conda (pasta VM)
 
 Uso: 
 
